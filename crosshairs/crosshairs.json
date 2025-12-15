@@ -1,55 +1,260 @@
 {
-  "version": 2,
+  "version": 1,
   "updatedAt": "2025-12-16",
+  "source": "prosettings.net",
   "items": [
     {
-      "id": "device",
-      "name": "device",
-      "team": "Astralis",
-      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"30\"><g><path fill=\"none\" stroke=\"#00FFFF\" stroke-width=\"2\" d=\"M15 12 L15 14 M12 15 L14 15 M18 15 L16 15 M15 18 L15 16\"/></g></svg>",
+      "id": "90821",
+      "name": "TenZ",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"#00FFFF\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#00FFFF\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
       "source": {
         "site": "prosettings.net",
-        "url": "https://prosettings.net/players/dev1ce/"
+        "url": "https://prosettings.net/players/tenz/"
       },
       "settings": {
         "size": 2,
         "gap": -2,
-        "thickness": 0.7,
-        "color": 4,
-        "outline": true
-      }
-    },
-    {
-      "id": "donk",
-      "name": "donk",
-      "team": "Spirit",
-      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"30\"><g><path fill=\"none\" stroke=\"#00FF00\" stroke-width=\"1\" d=\"M15 14 L15 16 M14 15 L16 15\"/></g></svg>",
-      "source": {
-        "site": "prosettings.net",
-        "url": "https://prosettings.net/players/donk/"
-      },
-      "settings": {
-        "size": 1,
-        "gap": -1,
-        "thickness": 0.5,
+        "thickness": 1,
         "color": 1,
         "outline": false
       }
     },
     {
-      "id": "dot_style",
-      "name": "Dot Style",
-      "team": "Community",
-      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"31\"><rect x=\"15\" y=\"15\" width=\"1\" height=\"1\" fill=\"#FFFFFF\"/></svg>",
+      "id": "130359",
+      "name": "donk",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
       "source": {
-        "site": "community",
-        "url": ""
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/donk/"
       },
       "settings": {
-        "size": 0,
-        "gap": -4,
+        "size": 2,
+        "gap": -2,
         "thickness": 1,
-        "color": 5,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "99108",
+      "name": "s1mple",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"#00FFFF\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#00FFFF\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/s1mple/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "98136",
+      "name": "m0NESY",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"#00FFFF\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#00FFFF\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/m0nesy/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "98253",
+      "name": "NiKo",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"rgb(0,255,145)\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"rgb(0,255,145)\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/niko/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "100432",
+      "name": "ZywOo",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"rgb(0,255,255)\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-opacity=\"0.7843137254901961\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"rgb(0,255,255)\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-opacity=\"0.7843137254901961\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/zywoo/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "100823",
+      "name": "XANTARES",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"31\" height=\"31\"><defs/><g><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15.5 4.5 L 15.5 11.5 M 4.5 15.5 L 11.5 15.5 M 26.5 15.5 L 19.5 15.5 M 15.5 26.5 L 15.5 19.5\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15.5 4.5 L 15.5 11.5 M 4.5 15.5 M 4.5 15.5 L 11.5 15.5 M 26.5 15.5 L 19.5 15.5 M 15.5 26.5 L 15.5 19.5\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/xantares/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "98527",
+      "name": "ropz",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"31\" height=\"31\"><defs/><g><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15.5 9.5 L 15.5 13.5 M 9.5 15.5 L 13.5 15.5 M 21.5 15.5 L 17.5 15.5 M 15.5 21.5 L 15.5 17.5\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15.5 9.5 L 15.5 13.5 M 9.5 15.5 M 9.5 15.5 L 13.5 15.5 M 21.5 15.5 L 17.5 15.5 M 15.5 21.5 L 15.5 17.5\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/ropz/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "98952",
+      "name": "b1t",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/b1t/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "98489",
+      "name": "Twistzz",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"31\" height=\"31\"><defs/><g><path fill=\"none\" stroke=\"rgb(0,255,135)\" paint-order=\"fill stroke markers\" d=\" M 15.5 12.5 L 15.5 17.5 M 12.5 15.5 L 17.5 15.5 M 18.5 15.5 L 13.5 15.5 M 15.5 18.5 L 15.5 13.5\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"rgb(0,255,135)\" paint-order=\"fill stroke markers\" d=\" M 15.5 12.5 L 15.5 17.5 M 12.5 15.5 M 12.5 15.5 L 17.5 15.5 M 18.5 15.5 L 13.5 15.5 M 15.5 18.5 L 15.5 13.5\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/twistzz/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "118520",
+      "name": "jL",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"31\" height=\"31\"><defs/><g><path fill=\"none\" stroke=\"rgb(0,255,160)\" paint-order=\"fill stroke markers\" d=\" M 15.5 12.5 L 15.5 14.5 M 12.5 15.5 L 14.5 15.5 M 18.5 15.5 L 16.5 15.5 M 15.5 18.5 L 15.5 16.5\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"rgb(0,255,160)\" paint-order=\"fill stroke markers\" d=\" M 15.5 12.5 L 15.5 14.5 M 12.5 15.5 M 12.5 15.5 L 14.5 15.5 M 18.5 15.5 L 16.5 15.5 M 15.5 18.5 L 15.5 16.5\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/jl/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "102231",
+      "name": "kennyS",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"31\" height=\"31\"><defs/><g><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15.5 12.5 L 15.5 14.5 M 12.5 15.5 L 14.5 15.5 M 18.5 15.5 L 16.5 15.5 M 15.5 18.5 L 15.5 16.5\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#2EFA2E\" paint-order=\"fill stroke markers\" d=\" M 15.5 12.5 L 15.5 14.5 M 12.5 15.5 M 12.5 15.5 L 14.5 15.5 M 18.5 15.5 L 16.5 15.5 M 15.5 18.5 L 15.5 16.5\" stroke-miterlimit=\"10\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/kennys/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "112527",
+      "name": "w0nderful",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"#FAFA2E\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"#FAFA2E\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/w0nderful/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "90175",
+      "name": "ScreaM",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"none\"/><rect fill=\"#000000\" stroke=\"none\" x=\"13\" y=\"13\" width=\"4\" height=\"4\"/><rect fill=\"#000000\" stroke=\"none\" x=\"13\" y=\"13\" width=\"4\" height=\"4\"/><path fill=\"none\" stroke=\"none\"/><rect fill=\"#00FFFF\" stroke=\"none\" x=\"14\" y=\"14\" width=\"2\" height=\"2\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/scream/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
+        "outline": false
+      }
+    },
+    {
+      "id": "110709",
+      "name": "Frozen",
+      "team": "Unknown",
+      "svg": "<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"30\" height=\"30\"><defs/><g><path fill=\"none\" stroke=\"rgb(0,255,120)\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/><path fill=\"none\" stroke=\"rgb(0,255,120)\" paint-order=\"fill stroke markers\" d=\" M 15 12 L 15 14 M 12 15 M 12 15 L 14 15 M 18 15 L 16 15 M 15 18 L 15 16\" stroke-opacity=\"1\" stroke-miterlimit=\"10\" stroke-width=\"2\" stroke-dasharray=\"\"/></g></svg>",
+      "source": {
+        "site": "prosettings.net",
+        "url": "https://prosettings.net/players/frozen/"
+      },
+      "settings": {
+        "size": 2,
+        "gap": -2,
+        "thickness": 1,
+        "color": 1,
         "outline": false
       }
     }
